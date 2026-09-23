@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm James Mahinay 👋
 
-<!--
-**jamesmahinay-it-master/jamesmahinay-it-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student | Learning Programming & Web Development
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student currently learning programming and web development.
+
+I'm interested in improving my coding skills, building projects, and learning how software development works.
+
+## 🧑‍💻 Currently Learning
+
+- Programming Fundamentals
+- Web Development
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- Python
+
+## 📂 Projects
+
+I'm currently learning and building beginner-friendly projects.
+
+More projects will be added as I continue learning.
+
+## 🎯 Goals
+
+- Improve my programming skills
+- Build real projects
+- Learn different technologies
+- Create a strong developer portfolio
+- Become a better problem solver
+
+## 📫 Connect With Me
+
+GitHub: [@jamesmahinay-it-master](https://github.com/jamesmahinay-it-master)
